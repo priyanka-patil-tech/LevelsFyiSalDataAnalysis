@@ -1,7 +1,3 @@
-# Career Decisions Made on Vibes, Not Data
-
-A decision-support analysis of the public Levels.fyi compensation survey. It helps job seekers and career switchers choose which skill to build, which company to target, and whether to stay or move.
-
 ## The Problem
 
 Job seekers and career switchers make two high-stakes decisions: which skill to invest in and which company to target. Most rely on anecdotes, recruiter pitches, and outdated salary chatter.
@@ -11,7 +7,7 @@ Levels.fyi collects self-reported compensation at scale, but the raw survey data
 - Inconsistent company names
 - 1,809 unique "level" labels
 - Free-text job tags
-- No built-in answer to "so what should I actually do?"
+- No built-in answer to "which jobs should I target?"
 
 This project turns that raw signal into a clear analysis.
 
